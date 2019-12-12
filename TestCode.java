@@ -13,7 +13,7 @@
 import java.io.*;
 import java.util.*;
 
-public class ProtectFiles {
+public class TestCode.java {
     public static int addSubValue = 10;
     public static String[] values = {"A","B","C","D","E","F","G","H","I","J","K","L",
             "M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","!","@","#","$",
